@@ -14,4 +14,8 @@ router.get('/portfolio', (req,res)=>{
     res.sendFile(path.join(__dirname, '../views/portfolio.html'))
 })
 
+router.get('/contact', (req,res)=>{
+    res.sendFile(path.join(__dirname, '../views/contact.html'))
+})
+
 module.exports = router;
