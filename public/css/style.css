@@ -38,3 +38,18 @@
         -webkit-transform: scale(1.2);
         transform: scale(1.2);
 }
+
+#about{
+        color: white;
+        top: 150px;
+        border: #39ff14 solid 1px;
+        border-radius: 5px;
+}
+
+#contactLink{
+        color: white;
+}
+#contactLink:hover{
+        color:#39ff14;
+        text-decoration: none;
+}
