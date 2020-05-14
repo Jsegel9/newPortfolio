@@ -53,3 +53,12 @@
         color:#39ff14;
         text-decoration: none;
 }
+
+#contact{
+        color: white;
+        top: 150px;
+        border: #39ff14 solid 1px;
+        border-radius: 5px;
+}
+
+h3{color: white;}
